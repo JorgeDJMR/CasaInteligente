@@ -1,0 +1,5 @@
+Para que este codigo funcione se necesitaran instalar una librerias, de otra manera no funcionara correctamente.
+
+-Esp32Servo
+-FreeRTOS
+-NewPing
